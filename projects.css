@@ -1,15 +1,15 @@
-@import url(https://allfont.net/allfont.css?fonts=league-spartan);
+@import url(https://fonts.googleapis.com/css2?family=Spartan:wght@700&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Amatic+SC);
 @import url(https://fonts.googleapis.com/css?family=Antic+Slab);
 body{
-    background-image: url(../Port/jeena.jpg);
+    background-image: url(./jeena.jpg);
     margin: 0;
     overflow-x: hidden;
 }
 .sections{
     color: white;
     background-color: rgb(8, 5, 51);
-    font-family: 'League Spartan Bold', arial;
+    font-family: 'Spartan', sans-serif;
     border-collapse:collapse;
 }
 .navigation table tr td a{
