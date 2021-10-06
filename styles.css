@@ -1,10 +1,8 @@
-@import url(http://allfont.net/cache/css/league-spartan.css);
+@import url(https://allfont.net/cache/css/league-spartan.css);
 @import url(https://fonts.googleapis.com/css?family=Amatic+SC);
 @import url(https://fonts.googleapis.com/css?family=Antic+Slab);
 @font-face {
- font-family: 'League Spartan Bold'; // You can use any name
- src: url(fonts/thefont.ttf) format('TTF') //  The path of the font file
- // You can use many formats like TTF, OTF, WOFF
+ @font-face{font-family:league spartan bold;font-style:normal;font-weight:700;src:local('League Spartan Bold'),local('LeagueSpartan-Bold'),url(https://allfont.de/cache/fonts/league-spartan_96d155934eb746bc55706f1589b67f14.woff) format('woff'),url(https://allfont.de/cache/fonts/league-spartan_96d155934eb746bc55706f1589b67f14.ttf) format('truetype')}
 }
 body{
     background-image: url(./meow.jpg);
