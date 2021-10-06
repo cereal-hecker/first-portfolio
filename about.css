@@ -3,7 +3,7 @@
 @import url(https://fonts.googleapis.com/css?family=Amatic+SC);
 @import url(https://fonts.googleapis.com/css?family=Antic+Slab);
 body{
-    background-image: url(../Port/new.jpeg);
+    background-image: url(./new.jpeg);
     margin: 0;
     overflow-x: hidden;
     overflow-y: hidden;
