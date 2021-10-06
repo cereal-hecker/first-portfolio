@@ -1,4 +1,4 @@
-@import url(http://allfont.net/allfont.css?fonts=league-spartan);
+@import url(https://fonts.googleapis.com/css?family=Spartan);
 @import url(https://fonts.googleapis.com/css?family=Amatic+SC);
 @import url(https://fonts.googleapis.com/css?family=Antic+Slab);
 body{
@@ -10,7 +10,7 @@ body{
 .sections{
     color: white;
     background-color: rgb(8, 5, 51);
-    font-family: 'League Spartan Bold', arial;
+    font-family: 'Spartan', arial;
     border-collapse:collapse;
 }
 .subtext{
