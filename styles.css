@@ -1,6 +1,11 @@
 @import url(https://fonts.googleapis.com/css?family=Spartan);
 @import url(https://fonts.googleapis.com/css?family=Amatic+SC);
 @import url(https://fonts.googleapis.com/css?family=Antic+Slab);
+@font-face {
+ font-family: 'League Spartan Bold'; // You can use any name
+ src: url(fonts/thefont.ttf) format('TTF') //  The path of the font file
+ // You can use many formats like TTF, OTF, WOFF
+}
 body{
     background-image: url(./meow.jpg);
     margin: 0;
